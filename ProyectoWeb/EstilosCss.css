@@ -1,0 +1,121 @@
+body{
+	background-color: #eceae8;
+	margin: 0;
+	padding: 0;
+}
+
+#categorias {
+	background-color: black;
+	color: white;
+	font-size: 21px;
+
+}
+img{
+	height: 33%;
+	width: 33%;
+}
+#imapeq{
+	 width:350px;
+	 height:124px;
+}
+
+#debajo{
+	width: 49%;
+	height: 25%;
+}
+
+.button-container{
+display:inline-block;
+position:relative;
+}
+
+.button-container #hombres{
+position: absolute;
+top:34em;
+left:2em;
+border-radius:1.5em;
+background-color: white;
+color:black;
+border: black 3px solid;
+padding:1em 1.5em;
+}
+
+.button-container #mujer{
+position: absolute;
+top:34em;
+left:41em;
+border-radius:1.5em;
+background-color: white;
+color:black;
+border: black 3px solid;
+padding:1em 1.5em;
+}
+
+.button-container #niños{
+position: absolute;
+top:34em;
+left:80em;
+border-radius:1.5em;
+background-color: white;
+color:black;
+border: black 3px solid;
+padding:1em 1.5em;
+}
+
+.button-container #accesorios{
+position: absolute;
+top:25em;
+left:2em;
+border-radius:1.5em;
+background-color: white;
+color:black;
+border: black 3px solid;
+padding:1em 1.5em;
+}
+
+.button-container #ofertas{
+position: absolute;
+top:25em;
+left:62em;
+border-radius:1.5em;
+background-color: white;
+color:black;
+border: black 3px solid;
+padding:1em 1.5em;
+}
+
+#info{
+	background-color: #6f6e6d;
+	color: white;
+}
+#tabla{
+  border: 8px solid black;
+  padding: 5px;
+  border-collapse: collapse;
+}
+#celda{
+	border: 2px solid black;
+  	padding: 5px;
+}
+tr{
+	color:black;
+	text-align: center;
+	size: 20px;
+}
+
+#zapHom{
+	width: 400px;
+	height: 400px;
+}
+#Tipos{
+	background-color: darkgrey;
+	font-size: 30px;
+	color:black;
+	text-align: center;
+}
+
+p{
+	 color: black;
+	 text-align: center;
+	 font-size: 18px;
+}
